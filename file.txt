@@ -1,0 +1,38 @@
+ 
+      <div id="c1001" class="d-flex"> <!-- flex layout -->
+        <div class="flex-shrink-0 p-2"> <!-- disallow div to shrink when page gets smaller -->
+          <img src="profilepic.png" style="width:80px; height:80px">
+        </div>
+        <div class="flex-grow-1 ms-3"> <!-- allow div to grow and take up all space -->
+          <h5>oceanwong524@gmail.com</h5>
+          <p>Anything you want to tell me?</p>
+        </div>
+      </div>
+    <div class="d-flex" id="c1002"><div class="flex-shrink-0">
+	<svg height="100" width="100">
+		<circle cx="50" cy="50" r="40" fill="blue">
+	</circle></svg>
+</div>
+<div class="flex-grow-1 ms-3">
+	<h5>1155141835@link.cuhk.edu.hk</h5>
+	<p>Good job</p>
+</div>
+</div><div class="d-flex" id="c1003"><div class="flex-shrink-0">
+	<svg height="100" width="100">
+		<circle cx="50" cy="50" r="40" fill="red">
+	</circle></svg>
+</div>
+<div class="flex-grow-1 ms-3">
+	<h5>wendydy812@gmail.com</h5>
+	<p>Answer my phone call &lt;3 plzzzzz</p>
+</div>
+</div><div class="d-flex" id="c1004"><div class="flex-shrink-0">
+	<svg height="100" width="100">
+		<circle cx="50" cy="50" r="40" fill="green">
+	</circle></svg>
+</div>
+<div class="flex-grow-1 ms-3">
+	<h5>dthththd@dfdgr</h5>
+	<p>rthdhtrdhtrh</p>
+</div>
+</div>
